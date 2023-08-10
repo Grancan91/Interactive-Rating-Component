@@ -8,7 +8,7 @@
 }
 
 
-body {
+#background {
     font-family: 'Overpass', sans-serif;
     background-color: var(--VeryDarkBlue);
     height: 100vh;
